@@ -11,6 +11,12 @@ html, body, main {
   
 }
 
+input {
+  background: transparent;
+  border: 1px solid #313131;
+  border-radius: 4px;
+}
+
 main .container {
   height: 100%;
   width: 70%;
